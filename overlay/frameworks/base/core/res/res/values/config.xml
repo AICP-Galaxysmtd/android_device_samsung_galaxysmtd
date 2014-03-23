@@ -51,21 +51,11 @@ Zone N + 1: array[N] <= LUX < infinity
 Must be overridden in platform specific overlays
 -->
     <integer-array name="config_autoBrightnessLevels">
-        <item>150</item>
-        <item>300</item>
-        <item>600</item>
-        <item>1000</item>
-        <item>3000</item>
-        <item>8000</item>
-        <item>15000</item>
-        <item>28000</item>
-        <item>41000</item>
-        <item>54000</item>
-        <item>67000</item>
-        <item>80000</item>
-        <item>100000</item>
-        <item>150000</item>
-        <item>200000</item>
+        <item>7</item>
+        <item>94</item>
+        <item>208</item>
+        <item>458</item>
+        <item>2223</item>
     </integer-array>
 
 </resources>
